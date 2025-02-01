@@ -115,19 +115,23 @@ You can preview the StudyNotion platform at [https://studynotionedtechplatform.v
 https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/video.mp4
 
 # Screenshots
-![Screenshot (40)](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/homepage.png)
-![Screenshot (42)](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/login.png)
+![Homepage](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/homepage.png)
+![Login](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/login.png)
+![Signup](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/signup.png)
 
 
 # Screenshots Of Student Dashboard
-![Screenshot (63)](https://github.com/mohansahu18/study-notion-/assets/123477420/dfb9bd9f-e443-4251-8edd-b01a3f480af6)
-![Screenshot (64)](https://github.com/mohansahu18/study-notion-/assets/123477420/9e684aec-c2c0-4d12-b5ef-43184ea976a6)
-![Screenshot (61)](https://github.com/mohansahu18/study-notion-/assets/123477420/6be01df6-e779-4c5d-a2b0-86346fd43250)
-![Screenshot (62)](https://github.com/mohansahu18/study-notion-/assets/123477420/e79fdb9a-2bf1-4d73-9cf0-6632c5856a78)
+![StudentDashboard](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/DashboardStudent.png)
+![EnrolledCources](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/EnrolledCourses.png)
+![Cource](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/Cource.png)
+![CourceContent](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/CourceContent.png)
 
 # Screenshots Of Instructor Dashboard
-![Screenshot (65)](https://github.com/mohansahu18/study-notion-/assets/123477420/5b3a01ef-14ce-4142-92f4-ff2264528b75)
-![Screenshot (66)](https://github.com/mohansahu18/study-notion-/assets/123477420/06c75706-e917-4751-a95b-4332f60650c2)
+![InstructorDashboard](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/DashboardInstor.png)
+![Chart](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/Chart.png)
+![InstructorCource](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/InstructorCource.png)
+
+
 
 ***
 
