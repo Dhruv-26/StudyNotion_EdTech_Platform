@@ -45,13 +45,6 @@ The front end of StudyNotion has all the necessary pages that an ed-tech platfor
 - **Course Management Pages**: These pages will allow the instructor to create, update, and delete courses, as well as manage the course content and pricing.
 - **View and Edit Profile Details**: These pages will allow the instructor to view and edit their account details.
 
-#### For Admin (Future Scope):
-
-- **Dashboard**: This page will have an overview of the platform's courses, instructors, and students.
-- **Insights**: This page will have detailed insights into the platform's metrics, including the number of registered users, courses, and revenue.
-- **Instructor Management**: This page will allow the admin to manage the platform's instructors, including their account details, courses, and ratings.
-- **Other Relevant Pages**: The admin will also have access to other relevant pages, such as user management and course management pages.
-
 ### Back-end
 
 The back end of StudyNotion provides a range of features and functionalities, including:
@@ -111,8 +104,7 @@ You can preview the StudyNotion platform at [https://studynotionedtechplatform.v
 ***
 
 # DEMO VIDEO
-
-https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/video.mp4
+https://github.com/user-attachments/assets/e7419afd-9e87-4ef4-9ea6-db0efc2e09fd
 
 # Screenshots
 ![Homepage](https://github.com/Dhruv-26/StudyNotion_EdTech_Platform/blob/main/Frontend/src/assets/screenshots/homepage.png)
